@@ -1,8 +1,5 @@
 - 👋 Hi, I’m ZhiweiChern
 - 👀 I’m interested in chips and OS
-- 🌱 I’m currently learning OSs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ZhiweiChern/ZhiweiChern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
